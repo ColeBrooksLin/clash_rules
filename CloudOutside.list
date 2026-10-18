@@ -1,0 +1,5 @@
+# 国外云
+DOMAIN-SUFFIX,dash.cloudflare.com
+DOMAIN-SUFFIX,aws.amazon.com
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,tencentcloud.com

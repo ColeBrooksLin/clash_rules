@@ -1,0 +1,45 @@
+# CF优选魔法域名
+DOMAIN-SUFFIX,usa.visa.com
+DOMAIN-SUFFIX,myanmar.visa.com
+DOMAIN-SUFFIX,www.visa.com.tw
+DOMAIN-SUFFIX,www.visaeurope.ch
+DOMAIN-SUFFIX,www.visa.com.br
+DOMAIN-SUFFIX,www.visasoutheasteurope.com
+
+
+# cfargotunnel
+DOMAIN-SUFFIX,cfargotunnel.com
+
+# cf tunnel
+DOMAIN-SUFFIX,argotunnel.com
+PROCESS-NAME,cloudflared
+
+
+# zerotier
+DOMAIN-SUFFIX,zerotier.com
+PROCESS-NAME,zerotier-one
+
+# stun直连
+DOMAIN-KEYWORD,stun
+
+# GitHub CDN
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN,cdn.jsdelivr.net
+
+
+# 网络工具 直连
+PROCESS-NAME,lucky
+PROCESS-NAME,vpnserver
+PROCESS-NAME,n2n-edge
+PROCESS-NAME,tailscaled
+
+# 魔法工具 直连
+PROCESS-NAME,trojan
+PROCESS-NAME,trojan-go
+PROCESS-NAME,ss-local
+PROCESS-NAME,ClashX
+PROCESS-NAME,clash
+PROCESS-NAME,v2ray
+PROCESS-NAME,xray
+#PROCESS-NAME,xrayr
+
