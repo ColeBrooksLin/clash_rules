@@ -28,6 +28,10 @@ DOMAIN-SUFFIX,ip-api.com
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 
+# Quad9 DNS
+IP-CIDR,9.9.9.9/32,no-resolve
+IP-CIDR,149.112.112.112/32,no-resolve
+
 # PT相关
 # 影
 DOMAIN-SUFFIX,star-space.net
