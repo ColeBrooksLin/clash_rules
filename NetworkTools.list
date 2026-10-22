@@ -1,6 +1,6 @@
 
 
-# pt站点 直连（ptd部分）
+# pt站点（ptd部分）
 DOMAIN-SUFFIX,agsvpt.com
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,azusa.wiki
@@ -54,7 +54,7 @@ DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,zhuque.in
 DOMAIN-SUFFIX,zmpt.cc
 
-# pt站点 直连（补充部分）
+# pt站点（补充部分）
 DOMAIN-SUFFIX,invites.fun
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,tosky.club
@@ -88,10 +88,10 @@ DOMAIN-SUFFIX,hdpt.xyz
 DOMAIN-SUFFIX,52dic.vip
 DOMAIN-SUFFIX,pterclub.com
 
-# pt图库 直连
-#DOMAIN-SUFFIX,pixhost.to
-#DOMAIN-SUFFIX,ptpimg.me
-#DOMAIN-SUFFIX,imgbox.com
+# pt图库
+DOMAIN-SUFFIX,pixhost.to
+DOMAIN-SUFFIX,ptpimg.me
+DOMAIN-SUFFIX,imgbox.com
 DOMAIN-SUFFIX,gateway996.com
 
 
