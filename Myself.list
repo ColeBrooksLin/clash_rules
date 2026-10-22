@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,nbox.l.cd
 DOMAIN-SUFFIX,byz.l.cd
 DOMAIN-SUFFIX,oes.l.cd
 
-# 机场域名
+# 机场节点域名
 DOMAIN-KEYWORD,yfjcs
 DOMAIN-KEYWORD,visa
 

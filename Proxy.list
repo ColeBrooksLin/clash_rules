@@ -1,19 +1,13 @@
-# NAME: Custom_Proxy
-# AUTHOR: Aethersailor
-# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # 强制代理列表，来自个人收集
 
-# 中文域名
-#DOMAIN-KEYWORD,xn--
+# 机场域名
+DOMAIN-SUFFIX,llgjc.org
 
 # 优化网络工具需要代理的地址
 DOMAIN-SUFFIX,doh.pubdefault
 
-# GooglePlay 相关
-DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,clientservices.googleapis.com
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# 证书申请
+DOMAIN-SUFFIX,letsencrypt.org
 
 # Cloudflare DNS
 DOMAIN-SUFFIX,cloudflare-dns.com
@@ -36,11 +30,7 @@ IP-CIDR,149.112.112.112/32,no-resolve
 # 影
 DOMAIN-SUFFIX,star-space.net
 
-# 特别服务
-# DOMAIN-SUFFIX,crashlytics.com
 
-# 证书申请
-DOMAIN-SUFFIX,letsencrypt.org
 
-# 机场域名
-DOMAIN-SUFFIX,llgjc.org
+
+

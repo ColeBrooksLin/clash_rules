@@ -1,16 +1,7 @@
-# CF优选魔法域名
-DOMAIN-SUFFIX,usa.visa.com
-DOMAIN-SUFFIX,myanmar.visa.com
-DOMAIN-SUFFIX,www.visa.com.tw
-DOMAIN-SUFFIX,www.visaeurope.ch
-DOMAIN-SUFFIX,www.visa.com.br
-DOMAIN-SUFFIX,www.visasoutheasteurope.com
 
-
-# cfargotunnel
-DOMAIN-SUFFIX,cfargotunnel.com
 
 # cf tunnel
+DOMAIN-SUFFIX,cfargotunnel.com
 DOMAIN-SUFFIX,argotunnel.com
 PROCESS-NAME,cloudflared
 
@@ -24,7 +15,6 @@ DOMAIN-KEYWORD,stun
 
 # GitHub CDN
 DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN,cdn.jsdelivr.net
 
 
 # 网络工具 直连
@@ -41,5 +31,76 @@ PROCESS-NAME,ClashX
 PROCESS-NAME,clash
 PROCESS-NAME,v2ray
 PROCESS-NAME,xray
-#PROCESS-NAME,xrayr
+PROCESS-NAME,xrayr
 
+# 下载工具直连
+
+DOMAIN-KEYWORD,xlliveud
+DOMAIN-KEYWORD,yunpan
+
+PROCESS-NAME,amuled
+PROCESS-NAME,fdm
+PROCESS-NAME,parsecd
+PROCESS-NAME,privoxy
+PROCESS-NAME,Folx
+PROCESS-NAME,LogiOptions
+PROCESS-NAME,LogiOptionsDaemon
+PROCESS-NAME,Motrix.app
+PROCESS-NAME,NetTransport
+PROCESS-NAME,UUBooster
+
+PROCESS-NAME,BaiduNetdisk_mac
+PROCESS-NAME,baidunetdisk.exe
+
+PROCESS-NAME,Weiyun
+PROCESS-NAME,Weiyun.exe
+
+DOMAIN-KEYWORD,thunder
+DOMAIN-KEYWORD,xunlei
+DOMAIN-SUFFIX,xunlei.com
+PROCESS-NAME,Thunder
+PROCESS-NAME,ThunderVIP
+PROCESS-NAME,Thunder.exe
+
+DOMAIN-KEYWORD,aria2
+PROCESS-NAME,aria2c
+PROCESS-NAME,aria2c.exe
+
+DOMAIN-SUFFIX,qbittorrent.org
+PROCESS-NAME,qBittorrent
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,qbittorrent.exe
+PROCESS-NAME,qbittorrent*
+
+DOMAIN-SUFFIX,transmissionbt.com
+PROCESS-NAME,Transmission
+PROCESS-NAME,transmission-daemon
+PROCESS-NAME,transmission-qt
+PROCESS-NAME,Transmission.exe
+
+PROCESS-NAME,uTorrent
+PROCESS-NAME,uTorrent.exe
+
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent.exe
+PROCESS-NAME,WebTorrentHelper
+PROCESS-NAME,WebTorrentHelper.exe
+
+PROCESS-NAME,BitComet
+PROCESS-NAME,BitComet.exe
+PROCESS-NAME,BitComet_x64.exe
+
+PROCESS-NAME,DownloadService
+PROCESS-NAME,DownloadService.exe
+
+PROCESS-NAME,Folx
+PROCESS-NAME,Folx.exe
+
+PROCESS-NAME,NetTransport
+PROCESS-NAME,NetTransport.exe
+
+PROCESS-NAME,fdm
+PROCESS-NAME,fdm.exe
+
+PROCESS-NAME,SunloginClient_Desktop
+PROCESS-NAME,SunloginClient_Helper
