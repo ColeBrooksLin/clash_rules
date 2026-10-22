@@ -1,4 +1,8 @@
-
+# pt图库
+DOMAIN-SUFFIX,pixhost.to
+DOMAIN-SUFFIX,ptpimg.me
+DOMAIN-SUFFIX,imgbox.com
+DOMAIN-SUFFIX,gateway996.com
 
 # pt站点（ptd部分）
 DOMAIN-SUFFIX,agsvpt.com
@@ -88,11 +92,7 @@ DOMAIN-SUFFIX,hdpt.xyz
 DOMAIN-SUFFIX,52dic.vip
 DOMAIN-SUFFIX,pterclub.com
 
-# pt图库
-DOMAIN-SUFFIX,pixhost.to
-DOMAIN-SUFFIX,ptpimg.me
-DOMAIN-SUFFIX,imgbox.com
-DOMAIN-SUFFIX,gateway996.com
+
 
 
 # 下载工具直连
