@@ -1,37 +1,59 @@
 
 
-# cf tunnel
-DOMAIN-SUFFIX,cfargotunnel.com
-DOMAIN-SUFFIX,argotunnel.com
-PROCESS-NAME,cloudflared
+# pt站点 直连
+DOMAIN-SUFFIX,agsvpt.com
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,azusa.wiki
+DOMAIN-SUFFIX,blutopia.cc
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,crabpt.vip
+DOMAIN-SUFFIX,cyanbug.net
+DOMAIN-SUFFIX,dicmusic.com
+DOMAIN-SUFFIX,discfan.net
+DOMAIN-SUFFIX,greatposterwall.com
+DOMAIN-SUFFIX,haidan.cc
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,hdcity.city
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,hdupt.com
+DOMAIN-SUFFIX,hhanclub.net
+DOMAIN-SUFFIX,xloli.cc
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,monikadesign.uk
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,pandapt.net
+DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,ptcafe.club
+DOMAIN-SUFFIX,pterclub.net
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,ptsbao.club
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-SUFFIX,rousi.pro
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,springsunday.net
+#DOMAIN-SUFFIX,star-space.net
+DOMAIN-SUFFIX,tangpt.top
+DOMAIN-SUFFIX,et8.org
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,eastgame.org
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,tu88.men
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,zhuque.in
+DOMAIN-SUFFIX,zmpt.cc
 
-
-# zerotier
-DOMAIN-SUFFIX,zerotier.com
-PROCESS-NAME,zerotier-one
-
-# stun直连
-DOMAIN-KEYWORD,stun
-
-# GitHub CDN
-DOMAIN-SUFFIX,jsdelivr.net
-
-
-# 网络工具 直连
-PROCESS-NAME,lucky
-PROCESS-NAME,vpnserver
-PROCESS-NAME,n2n-edge
-PROCESS-NAME,tailscaled
-
-# 魔法工具 直连
-PROCESS-NAME,trojan
-PROCESS-NAME,trojan-go
-PROCESS-NAME,ss-local
-PROCESS-NAME,ClashX
-PROCESS-NAME,clash
-PROCESS-NAME,v2ray
-PROCESS-NAME,xray
-PROCESS-NAME,xrayr
 
 # 下载工具直连
 
@@ -104,3 +126,38 @@ PROCESS-NAME,fdm.exe
 
 PROCESS-NAME,SunloginClient_Desktop
 PROCESS-NAME,SunloginClient_Helper
+
+
+# cf tunnel
+DOMAIN-SUFFIX,cfargotunnel.com
+DOMAIN-SUFFIX,argotunnel.com
+PROCESS-NAME,cloudflared
+
+
+# zerotier
+DOMAIN-SUFFIX,zerotier.com
+PROCESS-NAME,zerotier-one
+
+# stun直连
+DOMAIN-KEYWORD,stun
+
+# GitHub CDN
+DOMAIN-SUFFIX,jsdelivr.net
+
+
+# 网络工具 直连
+PROCESS-NAME,lucky
+PROCESS-NAME,vpnserver
+PROCESS-NAME,n2n-edge
+PROCESS-NAME,tailscaled
+
+# 魔法工具 直连
+PROCESS-NAME,trojan
+PROCESS-NAME,trojan-go
+PROCESS-NAME,ss-local
+PROCESS-NAME,ClashX
+PROCESS-NAME,clash
+PROCESS-NAME,v2ray
+PROCESS-NAME,xray
+PROCESS-NAME,xrayr
+
